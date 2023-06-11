@@ -1,0 +1,4 @@
+training_data/
+__pycache__
+*.ly
+*.pdf
