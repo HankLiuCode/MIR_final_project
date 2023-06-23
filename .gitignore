@@ -2,3 +2,6 @@ training_data/
 __pycache__
 *.ly
 *.pdf
+kick_drum
+hihat
+snare_drum
